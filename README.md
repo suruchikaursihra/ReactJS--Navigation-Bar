@@ -1,3 +1,7 @@
+## Purpose
+
+It shows the Basic Navigation using Reactrouter ,BrowseRouter ,switch and Route.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
